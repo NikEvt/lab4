@@ -1,0 +1,3 @@
+C:/Users/th3me/CLionProjects/Proga/labwork4_archiver_final/cmake-build-debug/CMakeFiles/labwork4_archiver_final.dir
+C:/Users/th3me/CLionProjects/Proga/labwork4_archiver_final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/th3me/CLionProjects/Proga/labwork4_archiver_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
